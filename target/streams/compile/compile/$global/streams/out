@@ -1,0 +1,37 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:58:21: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m      Seq(CovidData(p(0).toInt, p(1), p(2), p(4),[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:58:33: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m      Seq(CovidData(p(0).toInt, p(1), p(2), p(4),[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:58:39: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m      Seq(CovidData(p(0).toInt, p(1), p(2), p(4),[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:58:45: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m      Seq(CovidData(p(0).toInt, p(1), p(2), p(4),[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:59:9: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m        p(5), p(6).toDouble, p(7).toDouble, p(8).toInt,[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:59:15: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m        p(5), p(6).toDouble, p(7).toDouble, p(8).toInt,[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:59:30: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m        p(5), p(6).toDouble, p(7).toDouble, p(8).toInt,[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:59:45: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m        p(5), p(6).toDouble, p(7).toDouble, p(8).toInt,[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:60:9: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m        p(9).toInt, p(10).toInt, p(11).toInt, p(12)))[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:60:21: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m        p(9).toInt, p(10).toInt, p(11).toInt, p(12)))[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:60:34: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m        p(9).toInt, p(10).toInt, p(11).toInt, p(12)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sprk/devel/spark/workspace/COVID-19/src/main/scala/covid19/ReadDailyCSV.scala:60:47: not found: value p[0m
+[0m[[0m[31merror[0m] [0m[0m        p(9).toInt, p(10).toInt, p(11).toInt, p(12)))[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m12 errors found[0m
